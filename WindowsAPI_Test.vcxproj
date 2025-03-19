@@ -24,6 +24,7 @@
     <ProjectGuid>{2b84a528-ef3b-4d72-a108-5f17e6e2ea8a}</ProjectGuid>
     <RootNamespace>WindowsAPITest</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>pxEye</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
